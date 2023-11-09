@@ -58,3 +58,6 @@ var $1_identity = "new identity"
 
 console.log( $ )
 console.log($1_identity)
+
+
+//semicolons ( ; ) are optional 
